@@ -17,6 +17,7 @@ Interactive map integration
 Mobile-friendly responsive UI
 
 📁 Project Structure
+
 frontend/ – Contains the user-facing interface built with modern web technologies.
 
 backend/ – Handles APIs, authentication, database operations, and business logic.
